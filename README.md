@@ -4,7 +4,7 @@ Tools and tricks to helps solve tough problems with amazing solutions
 
 ## Topics Covered
 
-* Load Balancing 
+* [Load Balancing](#load-balacing) 
 * Postmortem Reports
 * Emergency Calls
 * Monitoring
