@@ -4,7 +4,7 @@ Tools and tricks to helps solve tough problems with amazing solutions
 
 ## Topics Covered
 
-* [Load Balancing](#load-balacing) 
+* [Load Balancing](https://github.com/ramitsurana/sre-best-practices/tree/master/load-balancing) 
 * Postmortem Reports
 * Emergency Calls
 * Monitoring
